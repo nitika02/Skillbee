@@ -1,0 +1,198 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    margin-top: 10px;
+}
+
+.left-container {
+    width: 50vw;
+    margin-left: 80px;
+}
+
+#tagline {
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 90px;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    width: 667px;
+    height: 270px;
+    color: #2B2B35;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    margin-top: -20px;
+}
+
+#idNumber {
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #2B2B35;
+}
+
+.left-container h4 {
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 100px;
+/* or 417% */
+
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #2B2B35;
+margin-top: -40px;
+
+}
+
+.explore-more {
+    width: 249px;
+    height: 60px;
+    border: none;
+    background-color: #D93A31;
+    color: white;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+.statistics {
+    display: flex;
+    justify-content: space-around;
+    margin-left: -130px;
+}
+
+.stats p {
+    width: 176px;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.stats h1 {
+    margin-top: -30px;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 100px;
+}
+
+#bottom-p {
+    margin-top: -60px;
+}
+
+.bottom {
+    width: 120%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 156px;
+    background: #2b2b35;
+    margin-left: -80px;
+    color: white;
+    margin-top: 80px;
+}
+.icon {
+    font-size: 50px
+}
+.flex {
+    display: flex;
+}
+.flex p {
+    margin-left: 20px;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #B5B5C2;
+    margin-top: -0px;
+}
+.flex span {
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100px;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    margin-top: -50px;
+    margin-left: 20px;
+}
+.right-container {
+    display: flex;
+    justify-content: flex-end;
+    width: 50vw;
+}
+
+
+.right-container p {
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    color: #9497A8;
+}
+#price {
+    margin-top: 60px;
+    margin-left: -20px;
+    color: #000000;
+}
+.images {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    position: relative;
+}
+.circle {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: #D93A31;
+    border-radius: 50%;
+    bottom: 300px;
+    left: 285px;
+}
+/* .border {
+    position: relative;
+}
+.outer-circle {
+    width: 196px;
+    height: 196px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    z-index: -1;
+} */
+#boy {
+    width: 334.5px;
+    height: 666.98px;
+}
+
+.border {
+    width: 334px;
+    height: 334px;
+    background: #2B2B35;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.images-2 {
+    width: 334px;
+}
